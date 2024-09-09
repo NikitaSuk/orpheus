@@ -1,8 +1,0 @@
-@import './tailwind.css';
-:root {
-  color-scheme: light dark;
-  color: rgb(225, 225, 225);
-  background-color: #1b1d24;
-  text-rendering: optimizeLegibility;
-  width: 100%;
-}
